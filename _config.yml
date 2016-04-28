@@ -1,0 +1,28 @@
+name: Pajak
+favicon: null
+layout_spectrum: 0.03958295681513846
+typography_spectrum: 0.7987090423703194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6810549984220415
+  lightness: 0.47068500495515764
+  saturation: 0.41447598789818585
+  rhythmicContrast: 0.10449366504326463
+purpose: []
