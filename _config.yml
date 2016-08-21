@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Sign In
+    url: 'https://app.online-pajak.com'
+    type: external
 favicon: null
 title: Taxes for everyone
 purpose: []
