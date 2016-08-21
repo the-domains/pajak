@@ -1,20 +1,4 @@
-name: Pajak
-favicon: null
-layout_spectrum: 0.03958295681513846
 typography_spectrum: 0.7987090423703194
-title: Taxes for everyone
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,20 @@ color:
   lightness: 0.47068500495515764
   saturation: 0.41447598789818585
   rhythmicContrast: 0.10449366504326463
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.03958295681513846
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Pajak
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Taxes for everyone
 purpose: []
