@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pajak]]></title>
-        <description><![CDATA[Pajak]]></description>
-        <link>https://thegrid.ai/pajak/</link>
+        <title><![CDATA[Taxes for everyone]]></title>
+        <description><![CDATA[Taxes for everyone]]></description>
+        <link>http://blog.online-pajak.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 01:34:35 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/pajak/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 17:54:47 GMT</lastBuildDate>
+        <atom:link href="http://blog.online-pajak.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PPh Pasal 21 (Pajak Penghasilan Pasal 21) | OnlinePajak]]></title>
+            <description><![CDATA[<article><h1>PPh Pasal 21 (Pajak Penghasilan Pasal 21) | OnlinePajak</h1><p>Dapatkan e-SPT PPh 21 dan lapor pajak online (e-filing) PPh Pasal 21 gratis di aplikasi OnlinePajak, lebih mudah, cepat dan otomatis perhitungannya!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b179386e2d89085dd123e7026b2fbdb/noop.jpg?input=http%3A%2F%2Fwww.online-pajak.com%2Fsites%2Fpajak%2Ffiles%2Fimages%2Farticle_pictures%2Fe-spt-pph21-di-onlinepajak.jpg"></article>]]></description>
+            <link>http://www.online-pajak.com/id/berita-dan-tips/pph-pajak-penghasilan-pasal-21</link>
+            <guid isPermaLink="false">b1f6dc96-b932-41f4-8dc0-f2d6fd956fd3</guid>
+            <pubDate>Sun, 21 Aug 2016 17:54:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f73d09f6-ce66-4474-93da-f58b9ce522f5.jpg">]]></description>
-            <link>https://thegrid.ai/pajak/982e3d0f-76ac-4e4a-b72d-0eb5ca7037de/index.html</link>
+            <link>http://blog.online-pajak.com/982e3d0f-76ac-4e4a-b72d-0eb5ca7037de/index.html</link>
             <guid isPermaLink="false">982e3d0f-76ac-4e4a-b72d-0eb5ca7037de</guid>
             <pubDate>Thu, 28 Apr 2016 01:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df819a9-5b41-49fb-a1de-881b9c221716.jpg">]]></description>
-            <link>https://thegrid.ai/pajak/hello/index.html</link>
+            <link>http://blog.online-pajak.com/hello/index.html</link>
             <guid isPermaLink="false">88952946-8e17-432a-9de9-a916e8d0f7c9</guid>
             <pubDate>Thu, 28 Apr 2016 01:30:22 GMT</pubDate>
         </item>
